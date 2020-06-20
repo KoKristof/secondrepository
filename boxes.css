@@ -1,10 +1,7 @@
-#container1 {
+#containerr {
     display: flex;
-    border: 1px solid blue;
-    flex-direction:row; justify-content:center; align-items: center; width: 30px; heigth: 30px
-}
-#container1 div {
-      background:blue;
-      margin-left:10px;
-      height:10px;width:10px
-}
+    
+    ; justify-content:center;align-items:center ; width:1000px; height:300px}
+    #containerr div {
+     background:blue; width:100px; height:100px;margin-left: 20px; margin-right:20px
+    }
