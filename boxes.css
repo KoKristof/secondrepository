@@ -1,7 +1,14 @@
 #containerr {
     display: flex;
     
-    ; justify-content:center;align-items:center ; width:1000px; height:300px}
+    ; justify-content:center;align-items:center ; width:1000px; height:200px}
     #containerr div {
-     background:blue; width:100px; height:100px;margin-left: 20px; margin-right:20px
+     background:blue; width:100px; height:58px;margin-left: 20px; margin-right:20px
     }
+    #container {
+        display: flex;
+    
+    ; justify-content:center;align-items:center ; width:1000px; height:200px; border: 3px solid blue; background: orange; margin-top:50px}
+    #container div {
+        background:purple; width:100px; height:58px;margin-left: 20px; margin-right:20px
+       }
